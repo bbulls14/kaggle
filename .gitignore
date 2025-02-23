@@ -1,0 +1,7 @@
+./titanic/uv.lock
+./titanic/Titanic.egg-info/
+./titanic/titanic.html
+./titanic/pyproject.toml
+./titanic/.envrc
+./titanic/.venv/
+./titanic/titanic_files/
