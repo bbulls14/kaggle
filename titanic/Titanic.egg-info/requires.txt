@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ipython>=8.12.3
+jupyter>=1.1.1
+plotly>=6.0.0

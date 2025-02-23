@@ -1,0 +1,6 @@
+pyproject.toml
+Titanic.egg-info/PKG-INFO
+Titanic.egg-info/SOURCES.txt
+Titanic.egg-info/dependency_links.txt
+Titanic.egg-info/requires.txt
+Titanic.egg-info/top_level.txt

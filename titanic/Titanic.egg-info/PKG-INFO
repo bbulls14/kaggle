@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: Titanic
+Version: 0.0.0
+Project-URL: Repository, https://github.com/bbulls14/kaggle
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: ipython>=8.12.3
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: plotly>=6.0.0
