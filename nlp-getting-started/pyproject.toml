@@ -1,0 +1,17 @@
+[project]
+dynamic = ["version"]
+name = "Titanic"
+dependencies = [
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "matplotlib",
+  "seaborn",
+  "ipython>=8.12.3",
+  "jupyter>=1.1.1",
+  "plotly>=6.0.0",
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Repository = "https://github.com/bbulls14/kaggle"
